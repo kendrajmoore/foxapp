@@ -12,7 +12,7 @@ function Cards() {
       <>
         <h4>Saved Cards</h4>
         <div className="cardz">
-            {foxDataArray.map((foxData, index) => (
+            {foxDataArray.slice(0, -1).map((foxData, index) => (
                 <Card key={index} style={{ width: '18rem' }}>
                 <Card.Img variant="top" src={foxData.name} />
                 <Card.Body>
