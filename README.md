@@ -38,7 +38,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://i.ibb.co/zbSTMhQ/Screenshot-2023-04-28-at-10-25-52-AM.png)
+
+[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/kendrajmoore/foxapp/main/public/fox.png)
 
 A simple app to receive a fox photo using a fox photo api
 
@@ -71,12 +72,4 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: https://i.ibb.co/zbSTMhQ/Screenshot-2023-04-28-at-10-25-52-AM.png
-[Node-Red]: https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white
-[Node-url]: https://nodered.org/
-[Arduino]: 	https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white
-[Arduino-url]: https://www.arduino.cc/en/software
-[InfluxDB]: https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white
-[Influx-url]: https://vuejs.org/
-[Digital Ocean]: https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white
-[Digital-url]: https://www.digitalocean.com/
+[product-screenshot]: https://raw.githubusercontent.com/kendrajmoore/foxapp/main/public/fox.png
