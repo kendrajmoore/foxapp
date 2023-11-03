@@ -14,7 +14,7 @@ function Cards() {
         <div className="cardz">
             {foxDataArray.slice(0, -1).map((foxData, index) => (
                 <Card key={index} style={{ width: '18rem' }}>
-                <Card.Img variant="top" src={foxData.name} />
+                <Card.Img id="cardimg" variant="top" src={foxData.name} />
                 <Card.Body>
                     <Card.Title>Old Fox</Card.Title>
                     <Card.Text>Here is a Fox</Card.Text>

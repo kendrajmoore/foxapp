@@ -49,3 +49,8 @@ h4 {
   width: 100px;
   height: 100px;
 }
+
+.card-img-top {
+  width: 18rem;
+  height: 300px;
+}

@@ -6,7 +6,7 @@ function Content({ data, link }) {
   return (
     <>
 
-      <Card style={{ width: '24rem' }}>
+      <Card style={{ width: '18rem' }}>
         <Card.Img variant="top" src={data} />
         <Card.Body>
           <Card.Title>New Fox</Card.Title>
